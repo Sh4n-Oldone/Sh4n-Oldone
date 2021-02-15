@@ -1,16 +1,19 @@
-### Hi there 👋
+# Рад вас приветствовать 👋
+###### Как-то вот так сходу неудобненько вышло...
+## Вернёмся к фактам:
 
-<!--
-**Sh4n-Oldone/Sh4n-Oldone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+С чем работал | Пример
+------------|------------
+HTML5/CSS | [Путешествия по России](https://sh4n-oldone.github.io/russian-travel/index.html)
+ReactJS | [Github](https://github.com/Sh4n-Oldone/react-mesto-auth)
+NodeJS | [Бэкенд NewsExplorer](https://alpavlov.students.nomoreparties.space/)
+Material-UI + SASS/SCSS | [Testground](https://sh4n-oldone.github.io/material-ui/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## С чем планирую разобраться в 2021
+* TypeScript
+* ImpactJS
+* VueJS
+* three.js
+
+# Ищу не только работу, но и команду, с которой будет здорово достигать новых высот! :sunglasses:
