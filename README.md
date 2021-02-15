@@ -2,7 +2,7 @@
 ###### Как-то вот так сходу неудобненько вышло...
 ## Вернёмся к фактам:
 
-## С чем работал | ## Пример
+С чем работал | Пример
 ------------|------------
 **HTML5/CSS** | [*Путешествия по России*](https://sh4n-oldone.github.io/russian-travel/index.html)
 **ReactJS** | [*NewsExplorer*](https://alpavlov.students.nomoreparties.space/)
