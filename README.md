@@ -16,3 +16,5 @@
 * VueJS
 * three.js
 # Ищу не только работу, но и команду, с которой будет здорово достигать новых высот! :sunglasses:
+
+<img align='center' src='.\images\Shan_Git_002.gif'>
