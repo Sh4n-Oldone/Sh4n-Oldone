@@ -8,7 +8,7 @@
 **ReactJS** | [*NewsExplorer*](https://alpavlov.students.nomoreparties.space/)
 **ExpressJS + MongoDB** | [*Сервер*](https://api.alpavlov.students.nomoreparties.space/)
 **Material-UI + SASS/SCSS** | [*Testground*](https://sh4n-oldone.github.io/material-ui/)
-<!-- **Redux** | [*Redux*]() -->
+**Redux** | [*Redux*](https://sh4n-oldone.github.io/panda-react-less/)
 
 ## С чем планирую разобраться в 2021
 * TypeScript
