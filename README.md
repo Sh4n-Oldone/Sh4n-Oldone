@@ -16,6 +16,7 @@
 
 ## С чем планирую разобраться в 2021
 * TypeScript
+* Svelte
 * ImpactJS
 * VueJS
 * three.js
