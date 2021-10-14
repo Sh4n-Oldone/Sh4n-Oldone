@@ -3,7 +3,7 @@
 С чем работал | Пример
 ------------|------------
 **HTML5/CSS** | [*Путешествия по России*](https://sh4n-oldone.github.io/russian-travel/index.html)
-**ReactJS** | [*NewsExplorer*](https://alpavlov.students.nomoreparties.space/) 
+**ReactJS** | [*NewsExplorer*](https://www.alpavlovnews.site/) 
 **ExpressJS + MongoDB** | [*Сервер*](https://api.alpavlov.students.nomoreparties.space/)
 **Material-UI + SASS/SCSS** | [*Testground*](https://sh4n-oldone.github.io/material-ui/)
 **Redux** | [*Redux*](https://sh4n-oldone.github.io/panda-react-less/)
@@ -13,9 +13,13 @@
 ------------|------------
 [Крестики-нолики](https://sh4n-oldone.github.io/tic-tac-toe/) | **ReactJS**
 
-## С чем планирую разобраться в 2021
-* ReactNative
+Комментарии от бывших коллег
+------------|------------
+**MSA-IT** | [*Коммент в LinkedIn*](https://www.linkedin.com/feed/update/urn:li:activity:6846447949069774848/)
+
+## С чем планирую разобраться
 * TypeScript
+* Next.js
 * Svelte
 * ImpactJS
 * VueJS
