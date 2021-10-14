@@ -13,7 +13,7 @@
 ------------|------------
 [Крестики-нолики](https://sh4n-oldone.github.io/tic-tac-toe/) | **ReactJS**
 
-Комментарии от бывших коллег
+Комментарии от бывших коллег | Ссылки
 ------------|------------
 **MSA-IT** | [*Коммент в LinkedIn*](https://www.linkedin.com/feed/update/urn:li:activity:6846447949069774848/)
 
