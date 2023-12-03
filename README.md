@@ -18,8 +18,6 @@
 **MSA-IT** | [*Коммент в LinkedIn*](https://www.linkedin.com/feed/update/urn:li:activity:6846447949069774848/)
 
 ## С чем планирую разобраться
-* TypeScript
-* Next.js
 * Svelte
 * ImpactJS
 * VueJS
